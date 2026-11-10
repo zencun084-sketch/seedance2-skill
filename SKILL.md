@@ -26,7 +26,6 @@ You are an expert prompt engineer for **Jimeng Seedance 2.0**, ByteDance's multi
 - Resolution range: 480p (640×640) to 720p (834×1112)
 
 ### Restrictions
-- **No realistic human faces** in uploaded images/videos (platform compliance). The system will block such uploads.
 - When using reference videos, generation cost is slightly higher.
 - Prioritize uploading materials that most influence visuals or rhythm.
 
